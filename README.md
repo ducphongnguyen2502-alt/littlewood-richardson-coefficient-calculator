@@ -3,7 +3,7 @@
 Python implementation for computing combinatorial objects, Littlewood-Richardson coefficients, and shifted Littlewood-Richardson coefficients.
 
 ## Overview
-This repository contains Python code designed to compute combinatorial models and coefficients introduced in the paper by **Duc-Khanh Nguyen**. It provides algorithms to efficiently compute and analyze:
+This repository contains Python code designed to compute combinatorial models and coefficients introduced in the paper by **Duc Khanh Nguyen**. It provides algorithms to efficiently compute and analyze:
 - Littlewood-Richardson coefficients
 - Shifted Littlewood-Richardson coefficients
 
