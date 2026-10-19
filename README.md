@@ -6,7 +6,7 @@ Python implementation for computing combinatorial objects, Littlewood-Richardson
 This repository provides computational tools based on the theoretical models presented by **Duc Khanh Nguyen**. It includes implementations for:
 - Computing Littlewood-Richardson coefficients.
 - Computing shifted Littlewood-Richardson coefficients.
-- Building and verifying combinatorial sets ($O$, $O_\mu$, $S$, and $\widetilde{O}$).
+- Building and verifying combinatorial sets.
 - Generating and rendering decision tree diagrams ($O$ and $\widetilde{O}$ sets) using **Graphviz**.
 
 ## Reference Paper
