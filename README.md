@@ -1,19 +1,23 @@
-# Littlewood-Richardson Coefficient Calculator
+# Littlewood-Richardson & Shifted Littlewood-Richardson Coefficient Calculator
 
-Python implementation for computing combinatorial objects, Littlewood-Richardson coefficients, and shifted Littlewood-Richardson coefficients.
+Python implementation for computing combinatorial objects, Littlewood-Richardson coefficients, shifted Littlewood-Richardson coefficients, and decision tree visualisations.
 
 ## Overview
-This repository contains Python code designed to compute combinatorial models and coefficients introduced in the paper by **Duc Khanh Nguyen**. It provides algorithms to efficiently compute and analyze:
-- Littlewood-Richardson coefficients
-- Shifted Littlewood-Richardson coefficients
+This repository provides computational tools based on the theoretical models presented by **Duc Khanh Nguyen**. It includes implementations for:
+- Computing Littlewood-Richardson coefficients.
+- Computing shifted Littlewood-Richardson coefficients.
+- Building and verifying combinatorial sets ($O$, $O_\mu$, $S$, and $\widetilde{O}$).
+- Generating and rendering decision tree diagrams ($O$ and $\widetilde{O}$ sets) using **Graphviz**.
 
 ## Reference Paper
-The implementations are based on the theoretical models presented in:
+The implementations are based on:
 > **Duc Khanh Nguyen**, *"On the Shifted Littlewood–Richardson Coefficients and the Littlewood–Richardson Coefficients"*, *Annals of Combinatorics* 26, 221–260 (2022).  
 > [DOI: 10.1007/s00026-022-00566-7](https://doi.org/10.1007/s00026-022-00566-7)
 
 ## Prerequisites & Installation
-Make sure you have Python installed on your system (Python 3.8+ recommended).
+
+### 1. Python Environment
+Make sure Python (3.8 or higher) is installed on your machine.
 
 Clone the repository:
 ```bash
